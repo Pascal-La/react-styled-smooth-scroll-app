@@ -29,7 +29,7 @@ export const NavbarContainer = styled.div`
   justify-content: space-between;
 `;
 
-export const NavLogo = styled(LinkR)`
+export const NavLogo = styled.a`
   display: flex;
   color: #01bf71;
   width: 2.5em;
