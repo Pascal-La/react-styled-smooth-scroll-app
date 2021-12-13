@@ -30,10 +30,10 @@ export const NavbarContainer = styled.div`
 `;
 
 export const NavLogo = styled.a`
-  display: flex;
-  color: #01bf71;
   width: 2.5em;
+  display: flex;
   height: 2.5em;
+  color: #01bf71;
   margin: auto 0;
   cursor: pointer;
   font-size: 1.5rem;
